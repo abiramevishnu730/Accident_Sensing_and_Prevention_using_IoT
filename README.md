@@ -5,10 +5,10 @@ Traveling has become risky despite being a vital necessity for human existence. 
 
 
 
-Team Mentor  : Dr.R.Sathya (AP/IT)
+Team Mentor  : Dr.R.Sathya (AP/IT).
 
-Team Leader  : M.R.S.ABIRAME
+Team Leader  : M.R.S.ABIRAME.
 
-Team Members : A.Madhupriya
-               R.Nikalya
-               M.Prithiusha
+Team Members : A.Madhupriya,
+               R.Nikalya,
+               M.Prithiusha.
